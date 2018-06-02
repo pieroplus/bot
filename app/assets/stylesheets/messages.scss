@@ -1,0 +1,11 @@
+.top{
+  padding: 30px 0;
+  &__center{
+    &__form{
+      text-align: center;
+      &__box{
+        width: 300px;
+      }
+    }
+  }
+}
